@@ -79,13 +79,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="230" src="https://i.postimg.cc/0yNQ8ZzR/IMG-20241127-WA0001.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="230" src="https://i.postimg.cc/g0jrzsBL/IMG-20241127-WA0000.jpg"  />
 </div>
 
 ###
